@@ -28,7 +28,7 @@ address{font-style:normal}
 .wrap{max-width:1120px;margin-inline:auto;padding-inline:var(--gutter)}
 
 /* top bar */
-.topbar{background:var(--forest);color:#d9e2d3;font-size:.875rem;display:flex;justify-content:space-between;gap:16px;padding:7px var(--gutter)}
+.topbar{background:var(--forest);color:#f4f7f2;font-size:.875rem;display:flex;justify-content:space-between;gap:16px;padding:7px var(--gutter)}
 .topbar p{margin:0}
 .topbar-links{display:flex;gap:22px}
 .topbar a{text-decoration:none}
